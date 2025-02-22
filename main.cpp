@@ -1,5 +1,8 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Guten Tag!";
+    std::cout << "Hello Canadai !";
+    std::cout << " Welcome to join us !";
+
+    return 0;
 }
